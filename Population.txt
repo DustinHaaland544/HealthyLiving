@@ -5,3 +5,5 @@ Canada: www.macrotrends.net/countries/CAN/canada/population
 Canada: www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2018005-eng.htm
 
 World: www.worldometers.info/world-population
+
+Snapshot: https://twitter.com/CanadianPolling/status/1723168703997501501
