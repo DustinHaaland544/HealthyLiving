@@ -1,5 +1,6 @@
-Autophagy is a natural, regulated process in the body where cells break down and recycle their own components. The term comes from the Greek words "auto" (self) and "phagy" (eating),
-meaning "self-eating." It is a crucial mechanism for maintaining cellular health and plays a role in various physiological and pathological processes.
+Autophagy is a natural, regulated process in the body where cells break down and recycle their own components. The term comes from the Greek words "auto" (self) 
+and "phagy" (eating), meaning "self-eating." It is a crucial mechanism for maintaining cellular health and plays a role in various physiological and pathological 
+processes.
 
 How Autophagy Works:
 
@@ -96,6 +97,7 @@ Cautions:
 
 - Balance is Key: Excessive fasting or exercise can lead to malnutrition or harm.
 
-- Medical Supervision: People with medical conditions (e.g., diabetes, heart issues) or on medication should consult a healthcare provider before making significant lifestyle changes.
+- Medical Supervision: People with medical conditions (e.g., diabetes, heart issues) or on medication should consult a healthcare provider before making 
+significant lifestyle changes.
 
 By incorporating these practices into your routine, you can encourage your body’s natural ability to detoxify and regenerate through autophagy.
